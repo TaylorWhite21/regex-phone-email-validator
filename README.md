@@ -1,9 +1,9 @@
-Lab: Automation
-Team:
-David Kariuki
-Bionca Bond
-Micheal Greene
-Taylor White
+Lab: Automation  
+Team:  
+David Kariuki  
+Bionca Bond  
+Micheal Greene  
+Taylor White  
 
 ## Overview
 A colleague has abruptly left the team to pursue a career as a novelist.
